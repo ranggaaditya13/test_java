@@ -39,5 +39,4 @@ public class BussCovidInputDeret {
         }
          return "Minimum bus required is : " + totalBuss;
     }
-
 }
